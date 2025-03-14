@@ -302,11 +302,11 @@ export default function EstadoResultadosDetailed() {
           </Typography>
         )}
 
-        {/* <Box sx={{ my: 2 }}>
+        <Box sx={{ my: 2 }}>
           <Button variant="contained" type="submit">
             Calcular Estado de Resultados
           </Button>
-        </Box> */}
+        </Box>
       </form>
 
       {mostrarEstado && (
